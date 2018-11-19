@@ -17,7 +17,7 @@
 
 <resources>
 
-    <string name="app_name">MoKee NotePad</string>
+    <string name="app_name">NotePad</string>
     <string name="live_folder_name">Notes</string>
     <string name="title_edit_title">Note title:</string>
     <string name="title_create">Create note</string>
